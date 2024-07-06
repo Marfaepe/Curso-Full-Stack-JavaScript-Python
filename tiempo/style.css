@@ -1,0 +1,38 @@
+body {
+    /*background-image: url(imagenes/bilbao.jpg);
+    background-repeat: no-repeat;*/
+    background-color: rgb(188, 227, 243);
+   
+  
+}
+
+.tiempo-articulo {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9bb;
+    width: 30%;
+    float: left;
+    margin: 10px;
+    position: relative;
+    
+}
+
+.tiempo-titulo {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.temp-min {
+    color: #007BFF;
+}
+
+.temp-max {
+    color: #FF5733;
+}
+.lluvia{
+    width: 20%;
+    position: absolute;
+    top: 10%;
+    right: 5%;
+}
